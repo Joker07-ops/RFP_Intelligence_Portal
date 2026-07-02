@@ -1,0 +1,22 @@
+REQUEST FOR PROPOSAL (RFP)
+PROJECT TITLE: Corporate Cloud Infrastructure Migration
+
+1. OVERVIEW & SCOPE
+The purpose of this RFP is to solicit proposals from qualified technical vendors to migrate our on-premise SQL databases and legacy web applications to a secure AWS cloud environment. 
+
+2. REQUIRED DELIVERABLES
+The selected vendor will be expected to provide the following milestone deliverables:
+- A detailed cloud architecture design blueprint within 14 days of contract signing.
+- Complete data migration of 4 production SQL databases with zero data loss.
+- Post-migration optimization reports and 30 days of continuous infrastructure monitoring.
+
+3. EVALUATION CRITERIA
+Proposals will be reviewed by our internal steering committee and scored based on:
+- Technical Approach & Architecture Feasibility: 40 Points
+- Cost Efficiency & Milestone Pricing Model: 30 Points
+- Relevant Past Performance & Team Certifications: 30 Points
+
+4. COMPLIANCE REQUIREMENTS
+- Legal: The vendor must execute a mutual Non-Disclosure Agreement (NDA) and carry a minimum of $2,000,000 in General Liability Insurance.
+- Accounting: Invoices must be submitted monthly based on completed milestones. No advance deposit retaking options are available.
+- Technical: All cloud architectures must comply strictly with GDPR regulations and adhere to SOC 2 Type II data security frameworks.
